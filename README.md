@@ -6,4 +6,8 @@ For the purpose of the experiment, a time series model is trained. An XGBoost is
 Follow the [link](https://community.cloud.databricks.com/login.html), and complete the signing up process.
 2. Setup an experiment on the server called `call_forecasting`
 
+![Landing Page](https://github.com/julianaddison/mlflow/blob/main/images/experiment_landing_page.png)
+![Create Exeperiment Page](https://github.com/julianaddison/mlflow/blob/main/images/create_experiment.png)
+
+
    
